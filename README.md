@@ -18,7 +18,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://github.com/CarlosSimon02/fem-qr-code-component](https://github.com/CarlosSimon02/fem-qr-code-component)
 - Live Site URL: [https://fem-qr-code-component-carlossimon.vercel.app/](https://fem-qr-code-component-carlossimon.vercel.app/)
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
