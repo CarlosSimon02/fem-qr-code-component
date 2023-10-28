@@ -16,9 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/CarlosSimon02/web-dev-challenges/edit/main/qr-code-component-main](https://github.com/CarlosSimon02/web-dev-challenges/edit/main/qr-code-component-main)
-- Live Site URL: [https://fem-qr-code-component-challenge.vercel.app/](https://fem-qr-code-component-challenge.vercel.app/)
-
+- Solution URL: [https://github.com/CarlosSimon02/fem-qr-code-component](https://github.com/CarlosSimon02/fem-qr-code-component)
+- Live Site URL: [https://fem-qr-code-component-carlossimon.vercel.app/](https://fem-qr-code-component-carlossimon.vercel.app/)
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
